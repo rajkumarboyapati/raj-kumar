@@ -13,7 +13,7 @@ div = float(num1) / float(num2)
 print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))  
   
 # Display the subtraction  
-print('The subtraction of {0} and {1} is {2}'.format(num1, num2, min))  
+print('The subs of {0} and {1} is {2}'.format(num1, num2, min))  
 # Display the multiplication  
 print('The multiplication of {0} and {1} is {2}'.format(num1, num2, mul))  
 # Display the division  
